@@ -39,7 +39,9 @@
 	out.println(Math.PI);
 	%>
 
-<img src="https://ucarecdn.com/66e0ee19-fbf6-4b57-b9d2-33c1d7ea04e5/-/format/auto/-/preview/3000x3000/-/quality/lighter/"><img>
+<div style="text-align: center;">
+<img src="https://ucarecdn.com/66e0ee19-fbf6-4b57-b9d2-33c1d7ea04e5/-/format/auto/-/preview/3000x3000/-/quality/lighter/" width="600" height="400"><img>
+</div>
 
 <a href="/travel"> Go to my travel page</a>
 
